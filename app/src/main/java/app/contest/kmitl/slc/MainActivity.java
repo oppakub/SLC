@@ -16,9 +16,9 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void ClickFirstUse(View view){
-        Intent objFirstUse = new Intent(MainActivity.this, FirstUse.class);
-        startActivity(objFirstUse);
+    public void clickfirst(View view){
+        Intent objFirst = new Intent(MainActivity.this, FirstUse.class);
+        startActivity(objFirst);
         finish();
     }
 

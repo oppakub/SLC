@@ -2,10 +2,9 @@
 <resources>
 
     <string name="app_name">Support Learning in Classroom</string>
-    <string name="hello_world">Hello oppa slc</string>
+    <string name="hello_world">Hello pagapong!!!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_first_use">FirstUse</string>
-    <string name="teacher">Teacher</string>
     <string name="student">Student</string>
-
+    <string name="teacher">Teacher</string>
 </resources>
